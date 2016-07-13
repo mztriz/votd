@@ -3,7 +3,6 @@
 # A small script to print Bible Gateway's  VOTD in NLT
 
 # RSS feed URL for BG
-
 URL=https://www.biblegateway.com/usage/votd/rss/votd.rdf?51
 
 # Grab VOTD from XML in URL
